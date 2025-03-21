@@ -45,7 +45,7 @@ The dataset consists of student records, including:
 This project provides a **data-driven approach** to predicting student dropout, enabling educational institutions to take proactive measures to improve retention rates. With further enhancements, it can be a powerful tool for academic success monitoring.
 
 ---
-**Project Repository**: [GitHub Link]
+**Project Repository**: [https://github.com/Alaska2003/Student_Dropout_Analysis]
 
 Feel free to reach out if you have any questions or suggestions!
 
